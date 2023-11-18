@@ -1,0 +1,163 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+       margin-bottom: 100px;
+       background-color:black;
+}
+
+.warp{
+    display: flex;
+}
+div{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #FCAF02;
+    color: black;
+    font-weight: 700;
+    padding-left: 0px;
+    
+}
+
+.logo {
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    font-weight: 500;
+    padding-right: 10px;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: black;
+}
+
+/* -------------------------------------------- */
+
+.div1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right:0px;
+    text-align: left;
+    width: 990px;
+    height: 600px;
+   color: white;
+   background-color: black;
+   font-size: xx-large;
+
+}
+
+
+
+img{
+    max-width: 200px;
+      height: 300px  
+}
+
+.jef1{
+margin-top: 120px;
+   margin-roght:0px;
+   
+}
+
+
+/* -------------------------- */
+
+/* btn component */
+.btn{
+    background-color: #FCAF02;
+    border-radius: 20px;
+    border: none;
+    font-weight: 700;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+
+}
+#contact{
+    color: #FCAF02;
+    font-size: xx-large;
+}
+/* --------------------------- */
+
+/* contacxt us section */
+
+#sub{
+    margin-left: 45%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    outline: none;
+    border-radius: 20px;
+    border: #FCAF02 solid;
+    
+}
+
+/* ------------------ */
+
+/* table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+    border:#FCAF02;
+}
+
+.uni{
+    border: 1px solid #FCAF02;
+    padding: 10px;
+    text-align: left;
+    color: #FCAF02;
+    padding-left: 40px;
+}
+
+
+
+#fet{
+    background-color: #FCAF02;
+    color: black;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.hd{
+    color: #FCAF02;
+    padding: 10px;
+
+    padding-left: 10px;
+
+}
+
+
